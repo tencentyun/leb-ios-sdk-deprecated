@@ -1,3 +1,6 @@
+⚠️ 项目已废弃，不再维护！
+This repository is deprecated and no longer maintained.
+
 ## 一> LiveEB_IOS SDK (live event Broadcasting)
 快直播 LEB （超低延迟直播） IOS SDK https://cloud.tencent.com/product/leb  
 
